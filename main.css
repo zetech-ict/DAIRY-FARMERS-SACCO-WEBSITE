@@ -1,0 +1,38 @@
+
+a:hover {
+    color: red;
+}
+
+a:hover {
+    background-color: blue;
+    font-size: larger;
+}
+
+body {
+    background-color: coral;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  div.c {
+    text-align: end;
+}
+
+div.c {
+    border-top: inherit;
+}
+
+div.c {
+    border-bottom: inherit;
+}
+
